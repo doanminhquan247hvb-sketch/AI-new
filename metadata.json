@@ -1,0 +1,6 @@
+{
+  "name": "Bản Khung Môn Toán v.01",
+  "description": "Giao diện nhập học liệu đầu vào và học Toán trực quan, dễ hiểu v.01 với trải nghiệm text-first",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
